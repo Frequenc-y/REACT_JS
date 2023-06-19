@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mern_Stack_Internship_ReactJs/static/css/main.804defbf.css",
+    "main.js": "/Mern_Stack_Internship_ReactJs/static/js/main.9bcdf619.js",
+    "static/js/787.b755f208.chunk.js": "/Mern_Stack_Internship_ReactJs/static/js/787.b755f208.chunk.js",
+    "static/media/logo.svg": "/Mern_Stack_Internship_ReactJs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Mern_Stack_Internship_ReactJs/index.html",
+    "main.804defbf.css.map": "/Mern_Stack_Internship_ReactJs/static/css/main.804defbf.css.map",
+    "main.9bcdf619.js.map": "/Mern_Stack_Internship_ReactJs/static/js/main.9bcdf619.js.map",
+    "787.b755f208.chunk.js.map": "/Mern_Stack_Internship_ReactJs/static/js/787.b755f208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.804defbf.css",
+    "static/js/main.9bcdf619.js"
+  ]
+}
